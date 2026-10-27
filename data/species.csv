@@ -1,0 +1,21 @@
+key,common_name,scientific_name,taxon_id,group,park_obs,region_obs
+american_black_bear,American Black Bear,Ursus americanus,41638,Mammal,1061,4417
+white_tailed_deer,White-tailed Deer,Odocoileus virginianus,42223,Mammal,888,18006
+elk,Elk,Cervus canadensis,204114,Mammal,383,1941
+coyote,Coyote,Canis latrans,42051,Mammal,123,1633
+american_red_squirrel,American Red Squirrel,Tamiasciurus hudsonicus,46260,Mammal,420,367
+eastern_gray_squirrel,Eastern Gray Squirrel,Sciurus carolinensis,46017,Mammal,182,21688
+groundhog,Groundhog,Marmota monax,46095,Mammal,36,2859
+river_otter,North American River Otter,Lontra canadensis,41777,Mammal,46,933
+wild_turkey,Wild Turkey,Meleagris gallopavo,906,Bird,1178,4940
+pileated_woodpecker,Pileated Woodpecker,Dryocopus pileatus,17855,Bird,116,2450
+barred_owl,Barred Owl,Strix varia,19893,Bird,59,3390
+dark_eyed_junco,Dark-eyed Junco,Junco hyemalis,10094,Bird,393,4105
+timber_rattlesnake,Timber Rattlesnake,Crotalus horridus,30746,Reptile,126,1463
+eastern_copperhead,Eastern Copperhead,Agkistrodon contortrix,912622,Reptile,184,4302
+common_watersnake,Common Watersnake,Nerodia sipedon,29305,Reptile,345,7970
+box_turtle,Common Box Turtle,Terrapene carolina,39814,Reptile,52,16790
+eastern_fence_lizard,Eastern Fence Lizard,Sceloporus undulatus,36142,Reptile,204,5349
+red_cheeked_salamander,Red-cheeked Salamander,Plethodon jordani,27238,Amphibian,518,630
+eastern_newt,Eastern Newt,Notophthalmus viridescens,27805,Amphibian,77,5235
+american_toad,American Toad,Anaxyrus americanus,64968,Amphibian,258,6283

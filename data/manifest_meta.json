@@ -1,0 +1,125 @@
+{
+  "built": "2026-10-27",
+  "park_place_id": 72645,
+  "region_place_ids": "45,30",
+  "train_cap": 500,
+  "test_cap": 150,
+  "val_share": 0.15,
+  "dropped_for_park_photographer_overlap": 2932,
+  "totals": {
+    "train": 9483,
+    "val": 1692,
+    "test": 2435
+  },
+  "per_species": {
+    "american_black_bear": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "white_tailed_deer": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "elk": {
+      "train": 469,
+      "val": 71,
+      "test": 150
+    },
+    "coyote": {
+      "train": 500,
+      "val": 88,
+      "test": 123
+    },
+    "american_red_squirrel": {
+      "train": 243,
+      "val": 45,
+      "test": 150
+    },
+    "eastern_gray_squirrel": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "groundhog": {
+      "train": 500,
+      "val": 88,
+      "test": 36
+    },
+    "river_otter": {
+      "train": 500,
+      "val": 88,
+      "test": 46
+    },
+    "wild_turkey": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "pileated_woodpecker": {
+      "train": 500,
+      "val": 88,
+      "test": 116
+    },
+    "barred_owl": {
+      "train": 500,
+      "val": 88,
+      "test": 59
+    },
+    "dark_eyed_junco": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "timber_rattlesnake": {
+      "train": 500,
+      "val": 88,
+      "test": 126
+    },
+    "eastern_copperhead": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "common_watersnake": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "box_turtle": {
+      "train": 500,
+      "val": 88,
+      "test": 52
+    },
+    "eastern_fence_lizard": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    },
+    "red_cheeked_salamander": {
+      "train": 271,
+      "val": 80,
+      "test": 150
+    },
+    "eastern_newt": {
+      "train": 500,
+      "val": 88,
+      "test": 77
+    },
+    "american_toad": {
+      "train": 500,
+      "val": 88,
+      "test": 150
+    }
+  },
+  "licenses": {
+    "cc0": 229,
+    "cc-by": 574,
+    "cc-by-nc": 12514,
+    "cc-by-sa": 26,
+    "cc-by-nc-sa": 79,
+    "cc-by-nd": 16,
+    "cc-by-nc-nd": 172
+  }
+}

@@ -1,0 +1,7 @@
+requests
+numpy
+pillow
+matplotlib
+timm
+torch
+torchvision
